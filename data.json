@@ -1,0 +1,16 @@
+{
+    "details"  :[
+        {
+            "name" : "Shubham",
+            "marks" : "70"
+        },
+        {
+            "name" : "Rakesh",
+            "marks" : "50"
+        },
+        {
+            "name" : "Vinayak",
+            "marks" : "90"
+        }
+    ]
+}
